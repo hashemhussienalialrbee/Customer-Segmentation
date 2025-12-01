@@ -27,7 +27,7 @@ It helps businesses understand customer behavior, category insights, revenue dis
 - **Geographic Coverage**: Global (Americas, Europe, Asia, Africa, Australia)
 
 ## 📷 Dashboard Preview
-![Customer Segmentation Dashboard](Customer_Segmentation.png)
+![Customer Segmentation Dashboard](Customer_Segmentation/Customer_Segmentation.png)
 
 ## 🔍 Key Insights
 - Revenue exceeded **755K**, with consistent sales growth over the years.
